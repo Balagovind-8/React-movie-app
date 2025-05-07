@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
-  "homepage": "https://balagovind-08.github.io/react-movie-app",
+  "homepage": "https://balagovind-08.github.io/React-movie-app/",
   "scripts": {
     "start": "vite",
     "build": "vite build",
